@@ -29,7 +29,7 @@ This project explores the Titanic dataset to identify survival trends and key de
 ## 📄 Author
 **Mohammed Shoaib Abbas**  
 Data Analyst | Excel | Data Visualization  
-📧 [Your Email Here] | 🌐 [Your GitHub Profile Link]
+📧 [mohammedshoaibabbas152@gmail.com] | 🌐 [[Author_git_hub_profile](https://github.com/shoaibabbas220503/)]
 
 ---
 
